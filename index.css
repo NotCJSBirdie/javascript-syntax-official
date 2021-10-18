@@ -1,0 +1,18 @@
+/* This is an example of an external CSS
+file */
+h1 {
+  text-align: center;
+}
+body {
+  background-color: darkgreen;
+}
+
+p {
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+}
+
+#button {
+  text-align: center;
+}
